@@ -1,1 +1,1 @@
-This repo im going to use for my DSS course
+I'm going to use this for my DSS course
